@@ -15,15 +15,9 @@ The following functionality is complete:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+![tip_calculator](https://user-images.githubusercontent.com/33500404/185828114-f0f3de06-b9d4-4069-8999-289fde4ee245.gif)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
-## Notes
-
-Describe any challenges encountered while building the app.
+GIF created with GIPHY CAPTURE.
 
 ## License
 
